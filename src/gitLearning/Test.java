@@ -6,5 +6,8 @@ public class Test {
 		System.out.println("hhhhh==dfjekljfgl");
 		System.out.println("hhh==dfdmfekjghh");
 	}
+	public static void main(String[] args){
+		System.out.println("hello,world");
+	}
 
 }
